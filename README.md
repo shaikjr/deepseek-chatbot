@@ -1,6 +1,6 @@
 # DeepSeek Chatbot with Ollama and LangChain
 
-![Chatbot Demo](https://via.placeholder.com/800x400.png?text=Chatbot+Demo) <!-- Replace with actual screenshot -->
+![Chatbot Demo]("D:\New folder\deepseek-chatbot\Interface.png") <!-- Replace with actual screenshot -->
 
 A fully functional, locally-run chatbot powered by **DeepSeek-R1 1.5B**, **Ollama**, and **LangChain**. This chatbot is designed for natural language conversations, code generation, and technical assistance. It features an attractive Streamlit-based front-end with chat history, avatars, and a modern UI.
 
