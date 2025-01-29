@@ -39,8 +39,8 @@ Before running the chatbot, ensure you have the following installed:
 2. **Set Up Python Environment**:
    - Clone this repository:
      ```bash
-     git clone https://github.com/laxmimerit/ollama-chatbot.git
-     cd ollama-chatbot
+     git clone https://github.com/shaikjr/deepseek-chatbot.git
+     cd deepseek-chatbot
      ```
    - Install the required Python packages:
      ```bash
